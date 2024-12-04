@@ -1,10 +1,3 @@
-<div align="center">
-  <h2 aligh="center">안녕하세요</h2>
-  <br>
-  <br>
-  <div>
-  </div>
-</div>
 
 
 ```javascript
@@ -13,9 +6,16 @@ const whoAmI = {
 	age : 26,
 	sex : "male",
 	city : "Gimhae, Korea",
+	favorits : ["cats", "computer"],
 	dateforPublishing : () => {
-		return 
-	}
+		let date = 90 //learning publishing after 08. 31. 2024
+		let time = 24 * 60 * 1000  // hours * minute * second
+		setInterval({
+		date += 1;
+		}, time)
+		return date;
+	},
+	myHobby : ["doing Markup", "playing game", "going cafe", "watching Movies, animes and Dramas"]
 }
 
 ```
