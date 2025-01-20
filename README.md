@@ -18,4 +18,12 @@ const whoAmI = {
 	myHobby : ["doing Markup", "playing game", "going cafe", "watching Movies, animes and Dramas"]
 }
 
+
+
+const contactMe = {
+
+	phoneNumber : "010 - 2262 - 4564",
+	eMail : " seleop@naver.com ",
+
+}
 ```
