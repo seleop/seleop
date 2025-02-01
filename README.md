@@ -7,7 +7,6 @@ const whoAmI = {
 	sex : "male",
 	city : "Gimhae, Korea",
 	favorits : ["cats", "computer"],
-	},
 	myHobby : ["doing Markup", "playing game", "going cafe", "watching Movies, animes and Dramas"]
 }
 
